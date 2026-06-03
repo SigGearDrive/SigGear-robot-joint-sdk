@@ -306,12 +306,12 @@ Dynamic robotic arms
 
 ---
 
-## 文件：`docs/PYTHON_SDK.md`
+## 文件：`ODRIVE_COMPATIBILITY.md`
 
 直接复制：
 
 ```markdown
-# Python SDK
+# Python Integration Guide
 
 SigGear robotic joint modules are compatible with the ODrive Python toolchain.
 
