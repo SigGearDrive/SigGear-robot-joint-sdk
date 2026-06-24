@@ -1,4 +1,79 @@
 # SigGear Robot Joint SDK
+
+SDK resources for SigGear robot joint actuators, compact cycloidal robotic joint modules, CAN-based actuator control, and robotic drive system integration.
+
+This repository is intended for robot developers, embedded engineers, motion control engineers, and robotics teams working on humanoid robots, quadruped robots, robot arms, robotic grippers, and compact automation systems.
+
+## Official Product Documentation
+
+* [SigGear Product Docs](https://siggeardrive.github.io/SigGear-product-docs/)
+* [ROS2 Robot Joint Actuator](https://siggeardrive.github.io/SigGear-product-docs/Developers/ros2-robot-joint-actuator/)
+* [CAN Protocol Robot Joint Control](https://siggeardrive.github.io/SigGear-product-docs/Developers/can-protocol-robot-joint-control/)
+
+## Related Robot Joint Products
+
+* [CPM100-25 Compact Cycloidal Robotic Joint Module](https://siggeardrive.github.io/SigGear-product-docs/CPM100-25/)
+* [CPM80-25 Compact Cycloidal Robotic Joint Module](https://siggeardrive.github.io/SigGear-product-docs/CPM80-25/)
+* [SG6010C Compact Precision Drive Solution](https://siggeardrive.github.io/SigGear-product-docs/SG6010C/)
+* [SG8021 Precision Drive Solution](https://siggeardrive.github.io/SigGear-product-docs/SG8021/)
+
+## SDK Focus
+
+This repository may include example resources for:
+
+* CAN communication with robot joint actuators
+* Robot joint command and feedback examples
+* Position, velocity, and torque control references
+* Motor control integration examples
+* Actuator initialization and status monitoring
+* Fault handling and safety state examples
+* Robotic joint testing scripts
+* Integration references for humanoid robots, quadruped robots, and robot arms
+
+## Typical Applications
+
+SigGear robot joint SDK resources can support development for:
+
+* Humanoid robot knee, hip, ankle, shoulder, and elbow joints
+* Quadruped robot hip and knee actuators
+* Robot arm shoulder, elbow, and wrist joints
+* Robotic grippers and compact end effectors
+* CAN-based robotic actuator networks
+* Compact automation drive systems
+* Research robots and prototype robotic platforms
+
+## Related Application Pages
+
+* [Cycloidal Reducer for Humanoid Robot Joints](https://siggeardrive.github.io/SigGear-product-docs/Applications/humanoid-robot-joint-reducer/)
+* [Quadruped Robot Joint Gearbox](https://siggeardrive.github.io/SigGear-product-docs/Applications/quadruped-robot-joint-gearbox/)
+* [Robot Arm Joint Gearbox](https://siggeardrive.github.io/SigGear-product-docs/Applications/robot-arm-joint-gearbox/)
+* [Robot Gripper Gear Motor](https://siggeardrive.github.io/SigGear-product-docs/Applications/robot-gripper-gear-motor/)
+
+## Selection and Comparison Resources
+
+* [Robot Joint Gearbox Selection Guide](https://siggeardrive.github.io/SigGear-product-docs/Selection-Guides/robot-joint-gearbox-selection-guide/)
+* [Cycloidal Reducer vs Harmonic Drive](https://siggeardrive.github.io/SigGear-product-docs/Comparisons/cycloidal-vs-harmonic-drive/)
+* [Planetary vs Cycloidal Gearbox](https://siggeardrive.github.io/SigGear-product-docs/Comparisons/planetary-vs-cycloidal-gearbox/)
+* [Integrated Robot Joint vs Separate Motor Gearbox](https://siggeardrive.github.io/SigGear-product-docs/Comparisons/integrated-robot-joint-vs-separate-motor-gearbox/)
+
+## CAD and Mechanical Resources
+
+For mechanical reference files and CAD model resources, see:
+
+* [SigGear CAD Models](https://github.com/SigGearDrive/SigGear-cad-models)
+
+## Notes
+
+The SDK examples in this repository are intended as integration references. Final communication parameters, CAN IDs, control modes, feedback data, and safety logic may vary by product model, firmware version, motor configuration, and customer-specific requirements.
+
+Before production integration, please confirm the actuator model, control protocol, electrical interface, communication baud rate, command format, feedback format, and safety requirements with SigGear.
+
+## Contact
+
+For SDK support, CAN protocol details, actuator samples, datasheets, CAD files, or custom robot joint drive solutions, contact SigGear:
+
+**Email:** [wangwanrong984@gmail.com](mailto:wangwanrong984@gmail.com)
+
 ## SigGear Product Documentation
 
 SigGear provides compact precision drive solutions for robotics, automation, medical devices, laboratory equipment, compact actuators, and intelligent motion systems.
