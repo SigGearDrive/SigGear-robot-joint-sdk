@@ -1,4 +1,4 @@
-Got a specific torque/backlash requirement? [Open an issue](https://github.com/SigGearDrive/SigGear-robot-joint-sdk/issues/new/choose) or contact us at sales [wangwanrong@siggear.com](mailto:wangwanrong@siggear.com) – our engineers will reply within 24 hours.
+Got a specific torque/backlash requirement? [Open an issue](https://github.com/SigGearDrive/SigGear-robot-joint-sdk/issues/new/choose) or contact us at [wangwanrong@siggear.com](mailto:wangwanrong@siggear.com) – our engineers will reply within 24 hours.
 
 # SigGear Robot Joint SDK
 
@@ -6,9 +6,9 @@ SDK resources for SigGear robot joint actuators, CAN-based actuator control, mot
 
 ## Start Here
 
-- [Robot joint actuator documentation](https://siggeardrive.github.io/SigGear-product-docs/Developers/ros2-robot-joint-actuator/)
-- [CAN protocol documentation](https://siggeardrive.github.io/SigGear-product-docs/Developers/can-protocol-robot-joint-control/)
-- [Robot joint gearbox selection guide](https://siggeardrive.github.io/SigGear-product-docs/Selection-Guides/robot-joint-gearbox-selection-guide/)
+- [Robot joint actuator selection guide](https://siggeardrive.github.io/SigGear-product-docs/selection-guides/robot-joint-actuator-selection-guide/)
+- [Product documentation](https://siggeardrive.github.io/SigGear-product-docs/)
+- [Robot joint actuator products](https://siggeardrive.github.io/SigGear-product-docs/products/robot-joint-actuators/)
 - [Request engineering support](https://github.com/SigGearDrive/SigGear-robot-joint-sdk/issues/new/choose)
 
 ## Application Scenarios
@@ -20,7 +20,7 @@ This SDK is intended for robotics engineers developing:
 - Industrial and collaborative robot arms
 - Robotic grippers and compact end effectors
 - Mobile robots using integrated wheel actuators
-- Research platforms requiring CAN-based precision motion control
+- Research platforms requiring precision motion control
 
 ## Robot Joint Actuator Platform
 
@@ -33,12 +33,22 @@ SigGear provides integrated robotic actuator solutions combining:
 - CAN communication
 - Motion control interfaces
 
-## Official Documentation
+## Supported Development Topics
 
-- Product Docs: https://siggeardrive.github.io/SigGear-product-docs/
-- ROS2 Integration Roadmap: https://siggeardrive.github.io/SigGear-product-docs/Developers/ros2-robot-joint-actuator/
-- CAN Protocol Documentation: https://siggeardrive.github.io/SigGear-product-docs/Developers/can-protocol-robot-joint-control/
+- Robot joint actuator integration
+- CAN-based communication
+- Motion-control software development
+- Prototype robot platform testing
+- Custom actuator evaluation
+
+## Official Resources
+
+- Product documentation: https://siggeardrive.github.io/SigGear-product-docs/
+- CAD resources: https://github.com/SigGearDrive/SigGear-cad-models
+- ROS2 resources: https://github.com/SigGearDrive/SigGear-ros2
 
 ## Supported Products
 
 For product matching, samples, custom actuator development, or integration support, contact SigGear engineering team.
+
+[wangwanrong@siggear.com](mailto:wangwanrong@siggear.com)
