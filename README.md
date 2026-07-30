@@ -6,14 +6,7 @@ SDK resources for SigGear robot joint actuators, CAN-based actuator control, mot
 
 ## Application Scenarios
 
-This SDK is designed for engineers developing:
-
-- Humanoid robot joint actuators
-- Quadruped robot legs and dynamic locomotion platforms
-- Industrial robot arms and collaborative robots
-- Robotic grippers and compact end effectors
-- Mobile robots using integrated wheel actuators
-- Research platforms requiring CAN-based precision motion control
+This SDK is intended for robotics engineers developing humanoid robots, quadruped robots, robot arms, robotic grippers, mobile robots, and compact automation systems.
 
 ## Robot Joint Actuator Platform
 
