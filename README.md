@@ -35,7 +35,7 @@ These functions are model- and configuration-specific. Do not assume one driver'
 
 ## Custom Robot Joint Development
 
-The public actuator models are reference platforms. SigGear also reviews customer-specific joint requirements that start from robot CAD, torque / speed targets, a preferred motor / controller, custom interfaces or prototype-to-production requirements.
+The public actuator models are reference platforms. SigGear also reviews customer-specific joint requirements that start from robot drawings / STEP models, torque / speed targets, a preferred motor / controller, custom interfaces or prototype-to-production requirements.
 
 [Custom Robot Joint Development](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/robot-joint-actuator-development/) · [Prototype → Volume Production](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/prototype-to-production/)
 
@@ -50,7 +50,7 @@ The public actuator models are reference platforms. SigGear also reviews custome
 ## Official Resources
 
 - Product documentation: https://siggeardrive.github.io/SigGear-product-docs/
-- CAD resources: https://github.com/SigGearDrive/SigGear-cad-models
+- STEP models: https://github.com/SigGearDrive/SigGear-cad-models
 - ROS2 resources: https://github.com/SigGearDrive/SigGear-ros2
 
 ## Supported Products
