@@ -7,7 +7,10 @@ SDK resources for SigGear robot joint actuators, CAN-based actuator control, mot
 - [Robot joint actuator selection guide](https://siggeardrive.github.io/SigGear-product-docs/selection-guides/robot-joint-actuator-selection-guide/)
 - [Product documentation](https://siggeardrive.github.io/SigGear-product-docs/)
 - [Robot joint actuator products](https://siggeardrive.github.io/SigGear-product-docs/products/robot-joint-actuators/)
-- [Request engineering support](https://github.com/SigGearDrive/SigGear-robot-joint-sdk/issues/new/choose)
+- [Private custom actuator engineering review](https://siggeardrive.github.io/SigGear-product-docs/request-cad-sample-quote/?path=joint_actuator)
+- [Report a public SDK issue](https://github.com/SigGearDrive/SigGear-robot-joint-sdk/issues/new)
+
+> **Confidential projects:** Do not upload customer drawings, STEP models, proprietary interfaces or NDA material to a public GitHub Issue. Use the private engineering review form or email for customer-specific actuator development.
 
 ## Application Scenarios
 
