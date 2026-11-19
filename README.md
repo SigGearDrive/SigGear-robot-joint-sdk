@@ -1,5 +1,3 @@
-Got a specific torque/backlash requirement? [Open an issue](https://github.com/SigGearDrive/SigGear-robot-joint-sdk/issues/new/choose) or contact us at [wangwanrong@siggear.com](mailto:wangwanrong@siggear.com) – our engineers will reply within 24 hours.
-
 # SigGear Robot Joint SDK
 
 SDK resources for SigGear robot joint actuators, CAN-based actuator control, motion control integration, and robotic drive system development.
@@ -24,14 +22,22 @@ This SDK is intended for robotics engineers developing:
 
 ## Robot Joint Actuator Platform
 
-SigGear provides integrated robotic actuator solutions combining:
+Depending on the exact model and configuration, a SigGear robot-joint solution may include or require review of:
 
-- Precision reducer
+- precision reducer
 - BLDC motor
-- Encoder feedback
-- Integrated driver
-- CAN communication
-- Motion control interfaces
+- encoder / feedback
+- integrated or external driver
+- CAN, RS485, EtherCAT or another supported communication interface
+- motion-control integration
+
+These functions are model- and configuration-specific. Do not assume one driver's encoder or communication features apply to every actuator.
+
+## Custom Robot Joint Development
+
+The public actuator models are reference platforms. SigGear also reviews customer-specific joint requirements that start from robot CAD, torque / speed targets, a preferred motor / controller, custom interfaces or prototype-to-production requirements.
+
+[Custom Robot Joint Development](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/robot-joint-actuator-development/) · [Prototype → Volume Production](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/prototype-to-production/)
 
 ## Supported Development Topics
 
